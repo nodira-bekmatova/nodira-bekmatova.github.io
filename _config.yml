@@ -22,25 +22,25 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "nodira-profile"
+  avatar           : "/images/nodira-profile.jpg"
   name             : "Nodira Bekmatova"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate in Linguistics | Senior English Educator"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Uzbekistan"
+  employer         : "Namangan State University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "nodirabek.84@gmail.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # URL
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : # URL
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
