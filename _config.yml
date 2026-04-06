@@ -9,27 +9,27 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+title                    : "Nodira Bekmatova | Academic Portfolio"
 title_separator          : "-"
 name                     : &name "Nodira Bekmatova"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : [https://nodira-bekmatova.github.io](https://nodira-bekmatova.github.io)
+description              : &description "PhD Candidate in Linguistics & Senior English Educator"   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : "[https://nodira-bekmatova.github.io](https://nodira-bekmatova.github.io)"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "nodira-bekmatova/nodira-bekmatova.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  # Biographic information
-  avatar           : "/images/nodira-profile.jpg"
-  name             : "Nodira Bekmatova"
-  pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate in Linguistics | Senior English Educator"
-  location         : "Uzbekistan"
-  employer         : "Namangan State University"
-  uri              : # URL
-  email            : "nodirabek.84@gmail.com" 
+# Biographic information
+avatar         : "/images/nodira-profile.jpg"
+name           : "Nodira Bekmatova"
+pronouns       : # example: "she/her"
+bio            : "PhD Candidate in Linguistics | Senior English Educator"
+location       : "Uzbekistan"
+employer       : "Specialized School"
+uri            : # URL
+email          : "nodirabek.84@gmail.com"
 
   # Academic websites
   academia         : # URL
